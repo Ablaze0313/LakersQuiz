@@ -1,0 +1,13 @@
+:root{
+    --primary-color:#FDB927;
+    --secondary-color: #552583;
+    --dark-color: #000000;
+}
+
+.quiz{
+    background: var(--secondary-color);
+}
+
+.introduction h2, .percent{
+    color: var(--secondary-color);
+}
